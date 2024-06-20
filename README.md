@@ -1,1 +1,1 @@
-GitHub "Galaxy Brain Badge" Hunting 🏹🎯
+GitHub "Galaxy Brain" Hunting 🏹🎯
