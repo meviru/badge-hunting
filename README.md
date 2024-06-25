@@ -7,7 +7,7 @@ Welcome to the **Badge Hunting: Galaxy Brain Challenge** repository! This is a f
 ## 🚀 How to Participate
 - Go to the discussion tab in this repository
 
-<img src="https://github.com/meviru/badge-hunting/blob/main/images/screenshot-github.com-2024.06.25-18_34_29.png" width="800px"> 
+<img src="https://github.com/meviru/badge-hunting/blob/main/images/screenshot-github.com-2024.06.25-18_34_299.png" width="800px"> 
 
 - Click on Galaxy Trivia and select any question to open this page.
 
