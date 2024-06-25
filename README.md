@@ -4,6 +4,17 @@ Welcome to the **Badge Hunting: Galaxy Brain Challenge** repository! This is a f
 
 <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="120px">
 
+## 🚀 How to Participate
+- Go to the discussion tab in this repository
+
+<img src="https://github.com/meviru/badge-hunting/blob/main/images/screenshot-github.com-2024.06.25-18_34_29.png" width="800px"> 
+
+- Click on Galaxy Trivia and select any question to open this page.
+
+<img src="https://github.com/meviru/badge-hunting/blob/main/images/screenshot-github.com-2024.06.25-18_36_18.png" width="800px">
+
+- Answer the given question. Once the question is marked as a question you will be notified and after answering two successful questions you will receive the Galaxy Brain badge on your profile.
+
 ## 📜 Badge Hunting Rules
 To ensure a fair and enjoyable experience for everyone, please follow these rules:
 
